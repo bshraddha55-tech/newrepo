@@ -1,2 +1,2 @@
 # newrepo
-New Repository for branch1 and branch2
+New Repository updated by branch1 
